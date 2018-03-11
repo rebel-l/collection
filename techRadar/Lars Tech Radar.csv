@@ -2,7 +2,7 @@ name,ring,quadrant,isNew,description
 Babel,adopt,languages & frameworks,TRUE,
 Bash,adopt,languages & frameworks,FALSE,
 CSS,adopt,languages & frameworks,FALSE,
-Go,adopt,languages & frameworks,TRUE,
+Go,adopt,languages & frameworks,TRUE,Designed for building microservice I started to learn Go in the end of 2015 evaluating it to refactor our architecture at fashion4home.
 HTML,adopt,languages & frameworks,FALSE,
 Javascript,adopt,languages & frameworks,FALSE,
 JSON,adopt,languages & frameworks,FALSE,
